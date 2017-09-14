@@ -1,0 +1,19 @@
+{
+  "name": "@tagplay/cloudinary-signature",
+  "version": "0.0.0",
+  "description": "Creates a signature used to upload to Cloudinary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tagplay/cloudinary-signature.git"
+  },
+  "author": "Fannar Snær <fannar@lambagras.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tagplay/cloudinary-signature/issues"
+  },
+  "homepage": "https://github.com/tagplay/cloudinary-signature#readme"
+}
