@@ -1,6 +1,6 @@
 {
   "name": "@tagplay/cloudinary-signature",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates a signature used to upload to Cloudinary",
   "main": "index.js",
   "scripts": {
